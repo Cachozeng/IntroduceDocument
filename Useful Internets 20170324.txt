@@ -1,0 +1,35 @@
+http://www.learnphp.cn/index.html     零基础学习PHP
+http://wenku.baidu.com/link?url=xx3lLdZ_PaSm0pfAlKVwxcjtw86J9eiFaqKoXX6t4gWEWc8_a7sDiuzYNoupk_smojKqf7J5NlOOdIIetSs2THepRAq-jmqdlQ0RWizTfGq###   mysql之heidisql 
+http://tools.android-studio.org/index.php/sdk          Android Studio   
+https://www.oschina.net/                               开源项目
+http://lib.csdn.net/base/jquery/resource               知识库
+http://bbs.chinaunix.net/                              chinaunix论坛
+http://blog.csdn.net/ztguang/article/details/54563576  C博客
+http://www.ieway.cn/evcapture.html                     EV录屏 EVCapture
+http://zh-cn.libreoffice.org/                          LibreOffice开源免费的办公软件
+https://www.teamviewer.com/zhCN/                       Teamviewer远程支持
+https://www.apachefriends.org/faq_windows.html         XAMPP（Apache+MySQL+PHP+PERL）功能强大的建站集成软件包
+SnagIt是Windows应用程序，可以捕捉、编辑、共享您计算机屏幕上的一切对象。屏幕、文本和视频捕获、编辑与转换软件。
+http://www.phpstudy.net/e/                             phpStudy是一个集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer,
+http://www.w3cschool.cn/                               w3cschool专业的编程入门学习及技术文档查询网站 
+https://mp.weixin.qq.com/                              微信公众号
+http://download.csdn.net/category                      C下载
+http://www.thinkphp.cn/                                ThinkPHP框架
+https://www.axure.com.cn/docs/                         快速创建应用软件或 Web 网站的线框图、流程图、原型和规格说明文档。
+http://tangjie.me/blog/73.html                         产品经理博客
+Axure RP8->key:米 业成 (STUDENT)  秘钥：nFmqBBvEqdvbiUjy8NZiyWiRSg3yO+PtZ8c9wdwxWse4WprphvSu9sohAdpNnJK5
+
+http://www.open-open.com/
+
+采用新的百度统计代码：
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?213b4c7b8b84679e8180b523663bb514";
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+要求
+在config文件设置一个配置项（BAIDU_STATS_ENABLED)，*只需要在live环境下才启用百度访问统计*。配置项为true的时候，才启用百度统计。
